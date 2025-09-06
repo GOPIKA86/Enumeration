@@ -1,3 +1,7 @@
+NAME: GOPIKA A
+
+REG NO: 212224100017
+
 # Explore Google hacking and enumeration 
 
 # AIM:
