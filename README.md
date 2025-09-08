@@ -206,7 +206,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
   
 ## Output
  
-<img width="920" height="385" alt="image" src="https://github.com/user-attachments/assets/cb0a2695-3b47-40c2-8b44-f409b18c4c48" />
+<img width="695" height="376" alt="image" src="https://github.com/user-attachments/assets/7e285e70-d255-4655-b07a-3e45497ede0d" />
+
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
